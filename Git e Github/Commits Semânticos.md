@@ -7,6 +7,8 @@ O commit semântico informa a intensão do seu commit na hora de utilizar em seu
 
 `feat` - os commits do tipo feat indicam que o trecho do código que está adicionando está incluindo um **novo recurso** (se relaciona ou MINOR do [[Versionamento semântico]]).
 
-`fix` - os commits do tipo fix indicam que a parte do código commitado está resoluções de algum problema (se relaciona com o PATCH do [[Versionamento semântico]])
+`fix` - os commits do tipo fix indicam que a parte do código commitado está **resoluções de algum problema** (se relaciona com o PATCH do [[Versionamento semântico]])
 
-`test` -  os commits do tipo test são utilizados quando alguma alteração em testes ocorra, seja criando, alterando, modificando ou deletando testes. (Não inclui alterações em código)
+`test` -  os commits do tipo test são utilizados quando alguma **alteração em testes** ocorra, seja criando, alterando, modificando ou deletando testes. (Não inclui alterações em código)
+
+`build` - os commits do tipo build são utilizados quando ocorrem modificações em **arquivos de build e depedências**
