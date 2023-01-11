@@ -12,3 +12,5 @@ O commit semântico informa a intensão do seu commit na hora de utilizar em seu
 `test` -  os commits do tipo test são utilizados quando alguma **alteração em testes** ocorra, seja criando, alterando, modificando ou deletando testes. (Não inclui alterações em código)
 
 `build` - os commits do tipo build são utilizados quando ocorrem modificações em **arquivos de build e depedências**
+
+`docs` - os commits do tipo docs indicam que houve **modificações noa documentação**. Como a modificação do README do seu projeto.
