@@ -14,3 +14,5 @@ O commit semântico informa a intensão do seu commit na hora de utilizar em seu
 `build` - os commits do tipo build são utilizados quando ocorrem modificações em **arquivos de build e depedências**
 
 `docs` - os commits do tipo docs indicam que houve **modificações noa documentação**. Como a modificação do README do seu projeto.
+
+`perf` - os commits do tipo perf servem para indicar qualquer alteração que for feita no código relacionado a **performance**.
