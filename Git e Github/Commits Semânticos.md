@@ -16,3 +16,5 @@ O commit semântico informa a intensão do seu commit na hora de utilizar em seu
 `docs` - os commits do tipo docs indicam que houve **modificações noa documentação**. Como a modificação do README do seu projeto.
 
 `perf` - os commits do tipo perf servem para indicar qualquer alteração que for feita no código relacionado a **performance**.
+
+`style` - os commits do tipo style indicam que houveram alterações referentes a **formatação de código**. (*exemplo*: linting, indentação, entre outros).
