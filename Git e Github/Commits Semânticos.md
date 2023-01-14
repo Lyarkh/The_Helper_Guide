@@ -22,3 +22,11 @@ O commit semântico informa a intensão do seu commit na hora de utilizar em seu
 `ci` - os commits do tipo ci indicam mudanças relacionadas a **integração contínua**.
 
 `chore` -os commits do tipo chore indicam  **atualizações de tarefas** de builds, configurações de administrador (*exemplo*: adicionar um pacote no gitignore). Não inclui alterações no código.
+
+
+### Recomendações
+
+- Adicionar um título consistente com o título do conteúdo.
+- Recomendado que primeira linha tenha no máximo 4 palavras.
+- Para descrever melhor os detalhes, utilize a descrição do commit.
+- Caso seja possível, utilizar emoji no início da mensagem representando sobre o commit.
