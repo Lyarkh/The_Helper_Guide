@@ -20,3 +20,5 @@ O commit semântico informa a intensão do seu commit na hora de utilizar em seu
 `style` - os commits do tipo style indicam que houveram alterações referentes a **formatação de código**. (*exemplo*: linting, indentação, entre outros).
 
 `ci` - os commits do tipo ci indicam mudanças relacionadas a **integração contínua**.
+
+`chore` -os commits do tipo chore indicam  **atualizações de tarefas** de builds, configurações de administrador (*exemplo*: adicionar um pacote no gitignore). Não inclui alterações no código.
