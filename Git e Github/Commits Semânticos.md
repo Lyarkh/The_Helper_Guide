@@ -23,6 +23,8 @@ O commit semântico informa a intensão do seu commit na hora de utilizar em seu
 
 `chore` -os commits do tipo chore indicam  **atualizações de tarefas** de builds, configurações de administrador (*exemplo*: adicionar um pacote no gitignore). Não inclui alterações no código.
 
+`refactor` - os commits do tipo refactor é utilizado quando foram feitar quaisquer mudanças no código que não alterem a funcionalidade final da função modificada.
+
 
 ### Recomendações
 
