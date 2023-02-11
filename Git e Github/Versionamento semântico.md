@@ -1,1 +1,1 @@
-:construction: em construção :construction:
+De forma bem resumida, o versionamento semântico (Semantic Versioning) é um conjunto de regras e requerimentos para atribuir a versão de um software. É uma tentativa para a resolução de um antigo problema conhecido como *dependency hell* (inferno de dependência), ou seja, os problemas e complicações ao lidar com pacotes de softwares.
