@@ -9,5 +9,6 @@ As principais partes do versionamento semântico (*seguindo a imagem exemplo*):
 - **Major(3)** - 
 - **Minor(10)** - 
 - **Patch(0)** - 
+- **Pré-release** - 
 
 :construction: Em contrução :construction:
