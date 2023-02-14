@@ -9,6 +9,6 @@ As principais partes do versionamento semântico (*seguindo a imagem exemplo*):
 - **Major(3)** - controle de compatibilidade. Informa que existem funcionalidades/códigos incompatíveis com as versões anteriores.
 - **Minor(10)** - controle de funcionalidade. Informa que novas funcionalidades foram adicionadas ao código.
 - **Patch(0)** - controle de correção de bugs. Informa que um ou mais erros foram identificados e corrigidos.
-- **Pré-release** - 
+- **Pré-release** - versão candidata. É uma versão com algumas instabilidades pois pode ter incompatibilidades no pacote.
 
 :construction: Em contrução :construction:
