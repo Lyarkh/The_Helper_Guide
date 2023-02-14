@@ -7,7 +7,7 @@ O versionamento garante um controle de versão de código utilizando padrões e 
 
 As principais partes do versionamento semântico (*seguindo a imagem exemplo*):
 - **Major(3)** - controle de compatibilidade. Informa que existem funcionalidades/códigos incompatíveis com as versões anteriores.
-- **Minor(10)** - 
+- **Minor(10)** - controle de funcionalidade. Informa que novas funcionalidades foram adicionadas ao código.
 - **Patch(0)** - 
 - **Pré-release** - 
 
