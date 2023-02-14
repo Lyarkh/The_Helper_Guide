@@ -6,7 +6,7 @@ De forma bem resumida, o versionamento semântico (Semantic Versioning) é um co
 O versionamento garante um controle de versão de código utilizando padrões e números, mantendo assim sua compatibilidade.
 
 As principais partes do versionamento semântico (*seguindo a imagem exemplo*):
-- **Major(3)** - 
+- **Major(3)** - controle de compatibilidade. Informa que existem funcionalidades/códigos incompatíveis com as versões anteriores.
 - **Minor(10)** - 
 - **Patch(0)** - 
 - **Pré-release** - 
