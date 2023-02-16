@@ -1,3 +1,5 @@
+![badge_last_commit](https://img.shields.io/github/last-commit/Lyarkh/The_Helper_Guide)
+
 # The_Helper_Guide
 Este repositório foi construído com o intuito de compartilhar estudos, comandos e esclarecer dúvidas sobre várias tecnologias presentes no mundo Dev/Tech.
 
