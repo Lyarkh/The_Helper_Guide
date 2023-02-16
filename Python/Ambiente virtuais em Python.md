@@ -24,5 +24,11 @@ No CMD:
 	venv/Scripts/activate.bat
 ```
 
+No bash:
+
+```bash
+	source venv/bin/activate
+```
+
 Logo após feito o ambiente virtual, e ativado, pode-se baixar as dependências sem nenhum conflito com nenhum projeto a parte ou bibliotecas instaladas no próprio sistema.
 
