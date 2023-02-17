@@ -14,5 +14,6 @@ As principais partes do versionamento semântico (*seguindo a imagem exemplo*):
 
 Foram elaboradas 11 regras chave que compôem essa especificação que quando seguidas de forma correta garantem a  estabilidade do pacote publicado.
 
+### Regra 01 - 
 
 :construction: Em contrução :construction:
