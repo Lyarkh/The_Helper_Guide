@@ -11,4 +11,8 @@ As principais partes do versionamento semântico (*seguindo a imagem exemplo*):
 - **Patch(0)** - controle de correção de bugs. Informa que um ou mais erros foram identificados e corrigidos.
 - **Pré-release** - versão candidata. É uma versão com algumas instabilidades pois pode ter incompatibilidades no pacote.
 
+
+Foram elaboradas 11 regras chave que compôem essa especificação que quando seguidas de forma correta garantem a  estabilidade do pacote publicado.
+
+
 :construction: Em contrução :construction:
