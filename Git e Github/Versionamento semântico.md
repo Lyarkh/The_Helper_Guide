@@ -11,8 +11,11 @@ As principais partes do versionamento semântico (*seguindo a imagem exemplo*):
 - **Patch(0)** - controle de correção de bugs. Informa que um ou mais erros foram identificados e corrigidos.
 - **Pré-release** - versão candidata. É uma versão com algumas instabilidades pois pode ter incompatibilidades no pacote.
 
-
 Foram elaboradas 11 regras chave que compôem essa especificação que quando seguidas de forma correta garantem a  estabilidade do pacote publicado.
 
 ### As regras do versionamento semântico está em [[Regras Versionamento Semântico]]
 
+
+### As palavras chaves do versionamento semântico
+
+`“DEVE”, “NÃO DEVE”, “OBRIGATÓRIO”, “DEVERÁ”, “NÃO DEVERÁ”, “PODEM”, “NÃO PODEM”, “RECOMENDADO”, “PODE” e “OPCIONAL”`
