@@ -22,3 +22,10 @@ O documento original é bem claro quanto a essa regra onde uma vez determinada e
 No desenvolvimento inicial de um software sua primeira versão deverá ser setada como zero, isso deve-se ao fato de que muita coisa poderá mudar a qualquer momento antes do seu lançamento e com isso sua versão inicial não pode e nem deve ser considerada estável.
 
 Em outras palavras, um software com sua versão inicial definida poderá mudar a qualquer hora porém, não quer dizer que versões anteriores ou dependências não poderão ser utilizadas em projetos.
+
+
+## Regra 05 - Versão 1.0.0
+
+Uma API pública poderá ser considerada “definida” a partir da versão 1.0.0 ou seja, versões futuras deverão ser baseadas ou dependentes dessa versão ou conforme ela é modificada.
+
+Assim sendo, uma versão 1.0.0 por exemplo, nunca poderá ser baseada em uma versão 0.8.0 da API pública. Porém versões superiores deverão de alguma forma ser dependentes da versão 1.0.0.
