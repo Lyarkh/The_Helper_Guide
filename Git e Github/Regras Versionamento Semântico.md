@@ -15,3 +15,10 @@ Além do mais cada bloco deverá ter seu nome onde “x” será a versão princ
 ## Regra 03 - Versões imutáveis
 
 O documento original é bem claro quanto a essa regra onde uma vez determinada e disponibilizada, a versão do software não poderá ser modificada em hipótese alguma. Assim sendo, caso ocorra qualquer necessidade de correção de bug, modificações, atualizações ou nova funcionalidade deverá ser lançada uma nova versão.
+
+
+## Regra 04 - Desenvolvimento inicial
+
+No desenvolvimento inicial de um software sua primeira versão deverá ser setada como zero, isso deve-se ao fato de que muita coisa poderá mudar a qualquer momento antes do seu lançamento e com isso sua versão inicial não pode e nem deve ser considerada estável.
+
+Em outras palavras, um software com sua versão inicial definida poderá mudar a qualquer hora porém, não quer dizer que versões anteriores ou dependências não poderão ser utilizadas em projetos.
