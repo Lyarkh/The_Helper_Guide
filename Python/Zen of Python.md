@@ -1,4 +1,4 @@
-
+#python #curiosidade
 Para verificar este **Easter Egg** utilize o import a seguir:
 ```python
 	import this
