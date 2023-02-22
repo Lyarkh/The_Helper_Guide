@@ -34,3 +34,21 @@ Assim sendo, uma versão 1.0.0 por exemplo, nunca poderá ser baseada em uma ver
 ## Regra 06 - Versão de remendo ou patch version
 
 Essa regra define que a versão de remendo, correção ou patch deverá indicar a correção de um ou mais bugs que se mantém compatível com a versão anterior. Ou seja, uma versão 1.0.1 corrige um problema na versão 1.0.0 e será totalmente compatível com a mesma.
+
+
+## Regra 07 – Versão secundária ou minor version
+
+O conceito de versão secundária mostra que a correção está sendo lançada relacionada com o versionamento anterior de correção (patch). Essa versão secundária apenas poderá ser implementada sob as seguintes condições:
+- Quando forem adicionadas novas funcionalidades, porém ainda assim compatíveis com as versões anteriores.
+- Quando houver depreciação de alguma funcionalidade já publicada.
+- Quando houverem novas funcionalidades ou melhorias introduzidas ao código.
+
+Além disso sempre que houver o lançamento de uma versão secundária para correção de bugs de versões anteriores a numeração da versão de remendo deverá ser zerada. Por exemplo, um projeto lançado na versão 1.0.6 que teve sua versão secundária publicada para correção de algum bug será setado para 1.1.0 e não 1.1.6.
+
+
+## Regra 08 – Versão principal ou major version
+
+Em outras palavras, sempre que alterações incompatíveis com versões anteriores forem implementadas na versão principal da API pública as versões menores e de alterações deverão ser resetadas para 0 (zero).
+
+Seguindo texto original da documentação, é dito o seguinte:
+*“Major version X (X.y.z | X > 0) MUST be incremented if any backwards incompatible changes are introduced to the public API. It MAY include minor and patch level changes. Patch and minor version MUST be reset to 0 when major version is incremented”.*
