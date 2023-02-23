@@ -52,3 +52,17 @@ Em outras palavras, sempre que alterações incompatíveis com versões anterior
 
 Seguindo texto original da documentação, é dito o seguinte:
 *“Major version X (X.y.z | X > 0) MUST be incremented if any backwards incompatible changes are introduced to the public API. It MAY include minor and patch level changes. Patch and minor version MUST be reset to 0 when major version is incremented”.*
+
+
+## Regra 09 – Versão de pré-lançamento ou pré-release
+
+A nona regra trata de versões de pré-lançamento e explica que:
+
+Uma versão de pré-lançamento será indicada quando um hífen e uma séries de identificadores separados por pontos estiverem presentes logo após a versão do patch. Esses identificadores deverão conter apenas caracteres alfanuméricos ASCII e hífen (0-9A-Za-z). Além disso os identificadores NÃO DEVEM estar vazios e NEM incluir zeros à sua esquerda.
+
+Embora não seja obrigatório nos números de versão padronizados por versionamento semântico, podem ajudar em algumas situações.
+
+
+## Regra 10 – Dados de build
+
+A décima regra é apenas mais uma regra adicional, portanto pode ser classificada como opcional. Segundo essa regra, é possível, se necessário adicionar informações extras de build junto à versão utilizando o caractere “+” seguido de informações adicionais separadas por pontos e que contenham apenas caracteres alfanuméricos e hífen. Podem ser adicionados como dados de build por exemplo o timestamp de quando o build foi criado ou até mesmo um hash do commit ou arquivos de build.
