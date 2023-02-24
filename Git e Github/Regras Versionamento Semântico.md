@@ -66,3 +66,14 @@ Embora não seja obrigatório nos números de versão padronizados por versionam
 ## Regra 10 – Dados de build
 
 A décima regra é apenas mais uma regra adicional, portanto pode ser classificada como opcional. Segundo essa regra, é possível, se necessário adicionar informações extras de build junto à versão utilizando o caractere “+” seguido de informações adicionais separadas por pontos e que contenham apenas caracteres alfanuméricos e hífen. Podem ser adicionados como dados de build por exemplo o timestamp de quando o build foi criado ou até mesmo um hash do commit ou arquivos de build.
+
+
+## Regra 11 – Precedência de versões
+
+Na décima primeira regra é falado sobre algo muito importante e utilizado por gerenciadores de dependências como o Bower e o Composer por exemplo. Em resumo essa regra define a ordem em que as versões do versionamento semântico deverá ter. No caso do versionamento semântico essa ordem será numérica (1.0.0 < 2.0.0 < 3.0.0 < 3.1.0) e assim por diante. Além disso essa ordem poderá contar com algumas características adicionais.
+
+- cada identificador deverá ser comparado da esquerda para a direita
+- identificadores compostos serão comparados numericamente
+- identificadores contendo letras ou hífens serão comparados lexicalmente conforme a organização da tabela ASCII onde A < a < b
+- Caso os identificadores estejam misturados entre numéricos e não-numéricos os não-numéricos terão precedência aos numéricos
+- Caso os identificadores estejam misturados entre numéricos e não-numéricos os não-numéricos terão precedência aos numéricos
