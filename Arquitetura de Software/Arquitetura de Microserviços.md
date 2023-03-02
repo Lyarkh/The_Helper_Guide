@@ -23,3 +23,11 @@ No exemplo abaixo, serão cinco:
 
 Agora, a ideia é imaginar que tudo é separado, um serviço será independente do outro.
 Quando um _deploy_ para o servidor for feito para ser disponibilizado o serviço, serão necessários ser feitos 5 _deploys_ separados e que não tem relação nenhuma um com o outro.
+
+
+## Vantagens dos Microsserviços
+---
+-   **Altamente testável e manutenível:** tudo é feito de forma separada e mais rápida;
+-   **Independência e agilidade:** os _deploys_ de cada microsserviço são totalmente independentes e mais rápidos;
+-   **Objetividade:** a organização é feita de acordo com a organização do produto e do negócio;
+-   **Flexibilidade:** é possível dividir em equipes para trabalhar de forma separada e totalmente independente em cada serviço.
