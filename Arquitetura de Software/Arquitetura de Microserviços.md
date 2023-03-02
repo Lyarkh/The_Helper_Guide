@@ -31,3 +31,10 @@ Quando um _deploy_ para o servidor for feito para ser disponibilizado o servi�
 -   **Independência e agilidade:** os _deploys_ de cada microsserviço são totalmente independentes e mais rápidos;
 -   **Objetividade:** a organização é feita de acordo com a organização do produto e do negócio;
 -   **Flexibilidade:** é possível dividir em equipes para trabalhar de forma separada e totalmente independente em cada serviço.
+
+
+## Desvantagens dos Microsserviços
+---
+-   **Quando a arquitetura do sistema é feita, a divisão dos serviços tem que ser feita com muita atenção e cuidado:** isso pode fazer com que se leve um pouco mais de tempo para chegar na divisão perfeita, de forma que no futuro a aplicação não sejam vários sistemas monolíticos separados e com funções que até se repetem;
+-   **Há replicação de código de resposta ou de infraestrutura, por exemplo:** o que existe de padrão em um serviço provavelmente existirá nos outros serviços também;
+-   **Complexidade no gerenciamento da aplicação:** é um ponto a se tomar muito cuidado para que a organização sempre exista mesmo que novas _features_ sejam implementadas no futuro.
