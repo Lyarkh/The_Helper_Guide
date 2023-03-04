@@ -1,4 +1,4 @@
-
+#arquitetura #microsserviços
 ## Resumo
 ---
 Microsserviços é o nome dado a uma arquitetura que estrutura a aplicação criando uma coleção de serviços.   
@@ -8,7 +8,7 @@ Quando se fala nesse tipo de arquitetura, basicamente nós pegamos um monolito q
 A ideia é separar os serviços para que cada um acesse uma camada do banco de dados ou somente um acesse algum serviço externo.
 
 
-## Exemplo para Microserviços
+## Exemplo para Microsserviços
 ---
 Vou usar o exemplo citado para deixar o entendimento sobre Microsserviços um pouco mais claro, considerando a criação de uma aplicação para uma loja de calçados. 
 
