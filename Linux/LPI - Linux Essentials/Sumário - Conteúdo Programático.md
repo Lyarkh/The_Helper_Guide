@@ -72,3 +72,75 @@ O conteúdo referente à primeira certificação em linux, a *linux essentials*,
 -   Password issues
 -   Privacy issues and tools
 -   Use of common open source applications in presentations and projects
+
+
+---
+### _Topic 2: Finding Your Way on a Linux System_
+
+#### 2.1 Command Line Basics (weight: 3)
+
+**Key Knowledge Areas:**
+
+-   Basic shell
+-   Command line syntax
+-   Variables
+-   Quoting
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   Bash
+-   echo
+-   history
+-   PATH environment variable
+-   export
+-   type
+
+  
+#### 2.2 Using the Command Line to Get Help (weight: 2)
+  
+**Key Knowledge Areas:**
+
+-   Man pages
+-   Info pages
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   man
+-   info
+-   /usr/share/doc/
+-   locate
+
+
+#### 2.3 Using Directories and Listing Files (weight: 2)
+
+**Key Knowledge Areas:**
+
+-   Files, directories
+-   Hidden files and directories
+-   Home directories
+-   Absolute and relative paths
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   Common options for ls
+-   Recursive listings
+-   cd
+-   **.** and **..**
+-   home and ~
+
+
+#### 2.4 Creating, Moving and Deleting Files (weight: 2)
+
+**Key Knowledge Areas:**
+
+-   Files and directories
+-   Case sensitivity
+-   Simple globbing
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   mv, cp, rm, touch
+-   mkdir, rmdir
+
+
+---
