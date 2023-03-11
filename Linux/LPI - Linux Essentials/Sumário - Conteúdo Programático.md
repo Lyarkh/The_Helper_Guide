@@ -195,3 +195,71 @@ O conteúdo referente à primeira certificação em linux, a *linux essentials*,
 -   for loops
 -   echo
 -   Exit status
+
+---
+### _Topic 4: The Linux Operating System_
+
+#### 4.1 Choosing an Operating System (weight: 1)
+
+**Key Knowledge Areas:**
+
+-   Differences between Windows, OS X and Linux
+-   Distribution life cycle management
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   GUI versus command line, desktop configuration
+-   Maintenance cycles, beta and stable
+
+
+#### 4.2 Understanding Computer Hardware (weight: 2)
+
+**Key Knowledge Areas:**
+
+-   Hardware
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   Motherboards, processors, power supplies, optical drives, peripherals
+-   Hard drives, solid state disks and partitions, /dev/sd*
+-   Drivers
+
+
+#### 4.3 Where Data is Stored (weight: 3)
+
+**Key Knowledge Areas:**
+
+-   Programs and configuration
+-   Processes
+-   Memory addresses
+-   System messaging
+-   Logging
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   ps, top, free
+-   syslog, dmesg
+-   /etc/, /var/log/
+-   /boot/, /proc/, /dev/, /sys/
+
+
+#### 4.4 Your Computer on the Network (weight: 2)
+
+**Key Knowledge Areas:**
+
+-   Internet, network, routers
+-   Querying DNS client configuration
+-   Querying network configuration
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   route, ip route show
+-   ifconfig, ip addr show
+-   netstat, ss
+-   /etc/resolv.conf, /etc/hosts
+-   IPv4, IPv6
+-   ping
+-   host
+
+---
+
