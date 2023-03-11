@@ -262,4 +262,57 @@ O conteúdo referente à primeira certificação em linux, a *linux essentials*,
 -   host
 
 ---
+### _Topic 5: Security and File Permissions_
 
+#### 5.1 Basic Security and Identifying User Types (weight: 2)
+
+**Key Knowledge Areas:**
+
+-   Root and standard users
+-   System users
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   /etc/passwd, /etc/shadow, /etc/group
+-   id, last, who, w
+-   sudo, su
+
+
+#### 5.2 Creating Users and Groups (weight: 2)
+
+**Key Knowledge Areas:**
+
+-   User and group commands
+-   User IDs
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   /etc/passwd, /etc/shadow, /etc/group, /etc/skel/
+-   useradd, groupadd
+-   passwd
+
+  
+#### 5.3 Managing File Permissions and Ownership (weight: 2)
+
+**Key Knowledge Areas:**
+
+-   File and directory permissions and ownership
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   ls -l, ls -a
+-   chmod, chown
+
+
+#### 5.4 Special Directories and Files (weight: 1)
+
+**Key Knowledge Areas:**
+
+-   Using temporary files and directories
+-   Symbolic links
+
+**The following is a partial list of the used files, terms and utilities:**
+
+-   /tmp/, /var/tmp/ and Sticky Bit
+-   ls -d
+-   ln -s
