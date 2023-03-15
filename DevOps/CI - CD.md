@@ -10,3 +10,12 @@ CI/CD é a abreviação de _Continuous Integration/Continuous Delivery,_ tra
 O acrônimo CI/CD tem alguns significados. "CI" sempre se refere à integração contínua, que é um processo de automação para desenvolvedores. Uma CI bem-sucedida é quando novas mudanças no código de uma aplicação são desenvolvidas, testadas e consolidadas regularmente em um repositório compartilhado. É a solução ideal para evitar conflitos entre ramificações quando muitas apps são desenvolvidas ao mesmo tempo.
 
 "CD" se refere à entrega contínua e/ou à implantação contínua, conceitos relacionados e usados alternadamente às vezes. Em ambos os casos, trata-se da automação de fases avançadas do pipeline. Porém, são usados às vezes separadamente para ilustrar o nível de automação presente.
+
+![ci_cd](https://www.redhat.com/rhdc/managed-files/styles/wysiwyg_full_width/private/ci-cd-flow-desktop.png?itok=NNRD1Zj0)
+
+
+## Integração Contínua
+
+No desenvolvimento moderno de aplicações, o objetivo é que muitos desenvolvedores trabalhem ao mesmo tempo em diferentes funcionalidades na mesma app. No entanto, se uma organização tiver que consolidar todo o código-fonte de ramificação em apenas um dia (conhecido como "merge day" ou "dia de consolidação"), o trabalho poderá ser entediante, manual e demorado.
+
+Com a integração contínua (CI), a equipe consolida as mudanças no código de volta a uma ramificação compartilhada (ou "tronco") com mais frequência (às vezes, até diariamente). As mudanças são consolidadas e depois validadas através da criação automática da aplicação. Vários testes automatizados, geralmente de unidade e integração, são feitos para garantir que as mudanças não corrompam a aplicação. Basicamente, tudo é testado, incluindo classes, funções e diferentes módulos que formam toda a aplicação. Em caso de conflito entre os códigos novos e existentes, a CI facilita a correção desses bugs com rapidez e frequência.
