@@ -19,3 +19,10 @@ O acrônimo CI/CD tem alguns significados. "CI" sempre se refere à integração
 No desenvolvimento moderno de aplicações, o objetivo é que muitos desenvolvedores trabalhem ao mesmo tempo em diferentes funcionalidades na mesma app. No entanto, se uma organização tiver que consolidar todo o código-fonte de ramificação em apenas um dia (conhecido como "merge day" ou "dia de consolidação"), o trabalho poderá ser entediante, manual e demorado.
 
 Com a integração contínua (CI), a equipe consolida as mudanças no código de volta a uma ramificação compartilhada (ou "tronco") com mais frequência (às vezes, até diariamente). As mudanças são consolidadas e depois validadas através da criação automática da aplicação. Vários testes automatizados, geralmente de unidade e integração, são feitos para garantir que as mudanças não corrompam a aplicação. Basicamente, tudo é testado, incluindo classes, funções e diferentes módulos que formam toda a aplicação. Em caso de conflito entre os códigos novos e existentes, a CI facilita a correção desses bugs com rapidez e frequência.
+
+
+## Entrega contínua
+
+Após a automação de compilações e dos testes de integração e unidade na CI, a entrega contínua automatiza o lançamento desse código validado em um repositório. Portanto, para ter um processo eficaz de entrega contínua, é importante que a CI já esteja integrada ao pipeline de desenvolvimento. O objetivo da entrega contínua é fazer com que a base de códigos esteja sempre pronta para implantação em um ambiente de produção.
+
+Cada etapa da entrega contínua, desde a consolidação das mudanças de código até a entrega de compilações prontas para produção, inclui a automação do lançamento de códigos e de teste. No final desse processo, a equipe de operação pode implantar uma app no ambiente de produção com rapidez e facilidade.
