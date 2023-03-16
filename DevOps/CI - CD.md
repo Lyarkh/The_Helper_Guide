@@ -26,3 +26,8 @@ Com a integração contínua (CI), a equipe consolida as mudanças no código de
 Após a automação de compilações e dos testes de integração e unidade na CI, a entrega contínua automatiza o lançamento desse código validado em um repositório. Portanto, para ter um processo eficaz de entrega contínua, é importante que a CI já esteja integrada ao pipeline de desenvolvimento. O objetivo da entrega contínua é fazer com que a base de códigos esteja sempre pronta para implantação em um ambiente de produção.
 
 Cada etapa da entrega contínua, desde a consolidação das mudanças de código até a entrega de compilações prontas para produção, inclui a automação do lançamento de códigos e de teste. No final desse processo, a equipe de operação pode implantar uma app no ambiente de produção com rapidez e facilidade.
+
+
+## Implantação contínua
+
+A etapa final de um pipeline de CI/CD sólido é a implantação contínua. Ela é um complemento da entrega contínua, que automatiza o lançamento de versões prontas para produção em um repositório de códigos. A implantação contínua automatiza o lançamento de uma app para a produção. Como não há um canal manual na etapa do pipeline antes da produção, a CI depende muito da automação otimizada dos testes.
