@@ -25,3 +25,12 @@
 - 304 - Not Modified
 - 307 - Temporary redirect
 - 308 - Permanant redirect
+
+
+### Client Error \[400 -499\]
+
+- 400 - Bad Request
+- 401 - Unauthorized
+- 403 - Forbidden
+- 404 - Not Found
+- 409 - Conflict
