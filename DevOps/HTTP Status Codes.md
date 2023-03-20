@@ -16,3 +16,12 @@
 - 202 - Accepted
 - 204 - No Content
 - 206 - Partial Content
+
+
+### Redirect \[300 -399\]
+
+- 300 - Multiple Choices
+- 301 - Moved Permanantly
+- 304 - Not Modified
+- 307 - Temporary redirect
+- 308 - Permanant redirect
