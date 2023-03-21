@@ -1,21 +1,21 @@
 
-- Aquitetura de Software
+- **Aquitetura de Software**
 	- Arquitetura de Microsserviços
 	- Arquitetura monolítica
-- DevOps
+- **DevOps**
 	- CI - CD
 	- HTTP Status Codes
 	- Makefile
-- Git e Github
+- **Git e Github**
 	- Commits semânticos
 	- Regras versionamento Semântico
 	- Versionamento Semântico
-- Linux
+- **Linux**
 	- LPI - Linux Essentials
 		- Sumário - Conteúdo Programático
 	- Distros Linux
 	- GNU
-- Python
+- **Python**
 	- Ambientes Virtuais em Python
 	- PEP8 - Style Guide
 	- Zen of Python
