@@ -1,4 +1,11 @@
 
+## 🚧 Em construção 🚧
+---
+
+## Assuntos já abordados
+
+---
+
 - **Aquitetura de Software**
 	- Arquitetura de Microsserviços
 	- Arquitetura monolítica
