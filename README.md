@@ -5,6 +5,7 @@ Este repositório foi construído com o intuito de compartilhar estudos, comando
 
 ## Observações
 ---
+- O sumário referente à todos os assuntos se encontra [aqui.](./Sumário.md)
 - Este repositório está sendo criado utilizando a ferramenta obsidian. Alguns links podem não estar funcionando devido à isso.
 - O link para baixar a ferramenta é [esse aqui.](https://obsidian.md)
 
