@@ -1,21 +1,21 @@
 
 - **Aquitetura de Software**
-	- Arquitetura de Microsserviços
-	- Arquitetura monolítica
+	- [[ Arquitetura de Microsserviços]]
+	- [[Arquitetura monolítica]]
 - **DevOps**
-	- CI - CD
-	- HTTP Status Codes
-	- Makefile
+	- [[CI - CD]]
+	- [[HTTP Status Codes]]
+	- [[Makefile]]
 - **Git e Github**
-	- Commits semânticos
-	- Regras versionamento Semântico
-	- Versionamento Semântico
+	- [[Commits semânticos]]
+	- [[Regras versionamento Semântico]]
+	- [[Versionamento Semântico]]
 - **Linux**
 	- LPI - Linux Essentials
-		- Sumário - Conteúdo Programático
-	- Distros Linux
-	- GNU
+		- [[Sumário - Conteúdo Programático]]
+	- [[Distros Linux]]
+	- [[GNU]]
 - **Python**
-	- Ambientes Virtuais em Python
-	- PEP8 - Style Guide
-	- Zen of Python
+	- [[Ambientes Virtuais em Python]]
+	- [[PEP8 - Style Guide]]
+	- [[Zen of Python]]
