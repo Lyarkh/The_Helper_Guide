@@ -13,3 +13,13 @@ Este documento fala sobre as convensões de códigos criadas e utilizadas para c
 A PEP8 é uma das PEPs mais conhecidas da comunidade Python, que estabelece um guia de estilo para a escrita de código Python. O objetivo da PEP8 é tornar o código Python mais legível, consistente e fácil de manter.
 
 O guia de estilo da PEP8 abrange aspectos como a formatação de código, o uso de espaços em branco, o uso de nomes de variáveis, a organização de importações, o uso de comentários e outros detalhes importantes da escrita de código Python.
+
+
+## Alguns Exemplos de orientações da PEP8
+---
+-   Usar quatro espaços para indentação, em vez de tabulação;
+-   Limitar as linhas de código a 79 caracteres;
+-   Usar nomes descritivos para variáveis, funções e classes;
+-   Usar espaços em branco de forma consistente ao redor de operadores e depois de vírgulas;
+-   Usar docstrings para documentar funções e módulos;
+-   Organizar as importações em uma ordem específica.
