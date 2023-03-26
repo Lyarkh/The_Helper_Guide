@@ -23,3 +23,9 @@ O guia de estilo da PEP8 abrange aspectos como a formatação de código, o uso 
 -   Usar espaços em branco de forma consistente ao redor de operadores e depois de vírgulas;
 -   Usar docstrings para documentar funções e módulos;
 -   Organizar as importações em uma ordem específica.
+-   Evite importar módulos inteiros, em vez disso, importe apenas as funções, classes ou constantes necessárias. Por exemplo, em vez de `import numpy`, use `from numpy import array` se você precisar apenas da classe `array`.
+-   Use espaços em branco para separar classes e funções de outras declarações de código. Por exemplo, inclua duas linhas em branco entre duas classes ou funções diferentes.
+-   Use letras maiúsculas separadas por sublinhados para nomear constantes, como `MAX_ITERATIONS` ou `DEFAULT_CONFIG`.
+-   Evite usar caracteres não-ASCII em identificadores de código, a menos que seja necessário para fins linguísticos. Use nomes descritivos em inglês sempre que possível.
+-   Evite usar identificadores com nomes que sejam muito semelhantes, como `l` (letra minúscula "L") e `1` (número um), pois isso pode levar a confusão.
+-   Use uma docstring para documentar cada módulo, função ou classe. A docstring deve começar com uma única linha de descrição, seguida de uma linha em branco e, em seguida, uma descrição mais detalhada. A PEP257 fornece orientações adicionais para a escrita de docstrings.
