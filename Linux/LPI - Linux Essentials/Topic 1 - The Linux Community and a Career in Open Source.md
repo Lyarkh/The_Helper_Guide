@@ -59,3 +59,16 @@ Os candidatos devem ter um bom entendimento dos princípios e filosofia do softw
 
 
 ## 1.4 ICT Skills and Working in Linux (weight: 2)
+
+O tópico 1.4 da certificação LPI-1 aborda as habilidades necessárias para trabalhar com Linux e outras tecnologias de informação e comunicação (TIC).
+
+Os sub-tópicos cobertos incluem:
+
+-   Fundamentos de redes: incluindo o modelo OSI e a pilha TCP/IP, bem como conceitos de endereçamento IP e redes sem fio.
+-   Administração de sistemas Linux: incluindo a instalação e configuração de sistemas Linux, gerenciamento de usuários e permissões, configuração de rede e serviços de rede, gerenciamento de pacotes, backups e restauração de dados e solução de problemas de sistema.
+-   Virtualização e contêineres: incluindo conceitos de virtualização, virtualização baseada em hardware e software, contêineres, Docker e Kubernetes.
+-   Armazenamento de dados: incluindo sistemas de arquivos, discos rígidos, RAID, LVM e backup e recuperação de dados.
+-   Habilidades de linha de comando: incluindo comandos básicos e avançados do shell do Linux, redirecionamento de entrada e saída, pipes, expressões regulares e scripts.
+-   Segurança de TI: incluindo conceitos de segurança de rede, segurança de sistema operacional e segurança de aplicativos, bem como criptografia, autenticação e autorização.
+
+Os candidatos devem ter um bom entendimento dos conceitos e habilidades listados acima, bem como das melhores práticas de trabalho em equipe, gerenciamento de projetos e comunicação. Além disso, eles devem estar familiarizados com as ferramentas e tecnologias usadas no desenvolvimento de software e sistemas de informação, incluindo linguagens de programação, bancos de dados, servidores web e ferramentas de desenvolvimento.
