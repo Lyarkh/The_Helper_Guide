@@ -39,3 +39,23 @@ Os exemplos de softwares que podem ser cobertos incluem:
 -   Vim e Emacs (editores de código)
 
 O conhecimento destes aplicativos é importante para os candidatos, pois muitas empresas usam software de código aberto para economizar dinheiro em licenças de software, além de oferecerem a flexibilidade e a customização que muitas vezes não são encontradas em softwares proprietários.
+
+
+## 1.3 Open Source Software and Licensing (weight: 1)
+
+O tópico 1.3 da certificação LPI-1 aborda software livre e licenciamento de software.
+
+O software livre (também conhecido como open source software) é um tipo de software que pode ser usado, estudado, copiado, modificado e redistribuído por qualquer pessoa. O licenciamento de software livre é definido por meio de licenças de software livre, que estabelecem as condições de uso e distribuição do software.
+
+O tópico 1.3 cobre os seguintes sub-tópicos:
+
+-   Filosofia do software livre: incluindo os quatro tipos de liberdades fundamentais associadas ao software livre.
+-   Licenças de software livre: incluindo as diferenças entre as licenças de software livre mais comuns, como a GNU GPL, LGPL, MIT e Apache.
+-   Software de código aberto vs software proprietário: incluindo as vantagens e desvantagens de cada tipo de software.
+
+Os candidatos devem ter um bom entendimento dos princípios e filosofia do software livre, bem como das diferentes licenças de software livre e suas implicações. Eles também devem ter um conhecimento geral sobre as diferenças entre software de código aberto e software proprietário.
+
+É importante lembrar que, embora o software livre possa ser gratuito, nem todo software gratuito é necessariamente software livre. Alguns softwares gratuitos podem ser proprietários e podem ter restrições em relação à sua distribuição e uso.
+
+
+## 1.4 ICT Skills and Working in Linux (weight: 2)
