@@ -25,3 +25,21 @@ Os principais conhecimentos abordados neste tópico incluem:
 -   Como usar o comando apropos para pesquisar comandos e aplicativos que estão relacionados a um determinado termo de busca.
 
 Compreender e dominar essas técnicas é fundamental para obter ajuda e informações sobre os comandos e aplicativos disponíveis no sistema operacional Linux. O conhecimento dessas técnicas também é importante para a solução de problemas e para a realização de tarefas mais avançadas no sistema Linux.
+
+
+## 2.3 Using Directories and Listing Files (weight: 2)
+
+O tópico 2.3 "Using Directories and Listing Files" (Usando Diretórios e Listando Arquivos) é outro tópico importante do exame de certificação LPI 101. Nesse tópico, são abordados os conceitos básicos de gerenciamento de arquivos e diretórios no sistema operacional Linux.
+
+Os principais conhecimentos abordados neste tópico incluem:
+
+-   Como criar diretórios usando o comando mkdir;
+-   Como remover diretórios usando o comando rmdir;
+-   Como navegar entre diretórios usando o comando cd;
+-   Como listar arquivos e diretórios usando o comando ls;
+-   Como usar opções para personalizar a saída do comando ls, como -l para listar informações detalhadas sobre cada arquivo ou diretório;
+-   Como usar caracteres curinga, como * e ?, para fazer pesquisas mais específicas em listagens de arquivos e diretórios.
+
+Compreender e dominar esses conceitos é fundamental para a navegação e gerenciamento de arquivos e diretórios no sistema Linux. A habilidade de criar, remover e navegar em diretórios, bem como listar arquivos e diretórios, é essencial para o trabalho com o sistema de arquivos do Linux.
+
+
