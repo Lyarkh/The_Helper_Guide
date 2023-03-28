@@ -43,3 +43,17 @@ Os principais conhecimentos abordados neste tópico incluem:
 Compreender e dominar esses conceitos é fundamental para a navegação e gerenciamento de arquivos e diretórios no sistema Linux. A habilidade de criar, remover e navegar em diretórios, bem como listar arquivos e diretórios, é essencial para o trabalho com o sistema de arquivos do Linux.
 
 
+## 2.4 Creating, Moving and Deleting Files (weight: 2)
+
+O tópico 2.4 "Creating, Moving and Deleting Files" (Criando, Movendo e Deletando Arquivos) é mais um tópico importante do exame de certificação LPI 101. Este tópico ensina os conceitos básicos de criação, movimentação e remoção de arquivos no sistema operacional Linux.
+
+Os principais conhecimentos abordados neste tópico incluem:
+
+-   Como criar arquivos usando o comando touch;
+-   Como mover arquivos usando o comando mv;
+-   Como copiar arquivos usando o comando cp;
+-   Como remover arquivos usando o comando rm;
+-   Como usar opções para personalizar a ação dos comandos, como -i para solicitar confirmação antes de remover um arquivo;
+-   Como usar caracteres curinga, como * e ?, para fazer pesquisas mais específicas em listagens de arquivos e diretórios.
+
+Compreender e dominar esses conceitos é fundamental para o gerenciamento de arquivos no sistema Linux. A habilidade de criar, mover e remover arquivos é essencial para o trabalho com o sistema de arquivos do Linux, permitindo que os usuários organizem seus arquivos e diretórios de forma eficiente. Além disso, o conhecimento de opções e caracteres curinga pode tornar as tarefas de gerenciamento de arquivos mais fáceis e eficientes.
