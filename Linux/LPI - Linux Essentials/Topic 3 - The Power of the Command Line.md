@@ -26,3 +26,14 @@ tar -czvf archive.tar.gz file1 file2 directory1
 ```
 
 Neste comando, a opção `-z` indica que o arquivo deve ser compactado com o gzip e o arquivo resultante será nomeado como `archive.tar.gz`. É possível substituir `file1`, `file2` e `directory1` pelos arquivos e diretórios que você deseja arquivar.
+
+
+## 3.2 Searching and Extracting Data from Files (weight: 3)
+
+Na LPI, é importante saber como buscar e extrair dados de arquivos na linha de comando. Duas ferramentas comuns para essa tarefa são o `grep` e o `awk`.
+
+O `grep` é usado para procurar padrões ou texto específico em um ou mais arquivos, e pode ser usado com várias opções, como a opção `-r` para procurar em um diretório recursivamente. Já o `awk` é usado para processar e extrair dados de arquivos de texto, podendo ser usado com várias opções para selecionar e formatar dados de acordo com a necessidade.
+
+Para realizar buscas em arquivos de log e identificar possíveis problemas, o `grep` pode ser usado em conjunto com outras ferramentas, como o `tail` para visualizar as últimas linhas do arquivo de log, e o `sort` para ordenar os resultados. Já o `awk` pode ser usado para extrair dados de colunas específicas em arquivos CSV, por exemplo, e formatar os dados de acordo com a necessidade.
+
+Conhecer essas ferramentas e seus recursos é fundamental para administradores de sistemas e profissionais de TI que precisam lidar com arquivos de texto em seu dia a dia.
