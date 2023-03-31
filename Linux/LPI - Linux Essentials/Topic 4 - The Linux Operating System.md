@@ -27,3 +27,18 @@ A placa-mãe é responsável por conectar todos os componentes do computador e d
 Além disso, é importante entender como os diferentes componentes interagem e como solucionar problemas comuns, como erros de inicialização, problemas de hardware e erros de memória. Isso pode envolver o uso de ferramentas de diagnóstico de hardware e a substituição de componentes defeituosos.
 
 Por fim, é importante estar atualizado sobre as tendências e novidades no mercado de hardware, como novas tecnologias de processador, novos tipos de memória e dispositivos de armazenamento, para poder tomar decisões informadas na escolha e atualização de componentes de hardware.
+
+
+## 4.3 Where Data is Stored (weight: 3)
+
+Na LPI, é importante entender onde os dados são armazenados em um sistema de computador, incluindo as diferentes formas de armazenamento e as técnicas usadas para gerenciar e acessar dados.
+
+Os dados podem ser armazenados em diferentes dispositivos, como discos rígidos, unidades flash USB, cartões de memória e armazenamento em nuvem. Cada tipo de armazenamento tem suas próprias vantagens e desvantagens, dependendo das necessidades do usuário.
+
+Os sistemas de arquivos são usados para gerenciar o armazenamento e o acesso aos dados em um sistema de computador. Os sistemas de arquivos podem ser organizados em várias camadas, incluindo a camada física, que gerencia o armazenamento em dispositivos físicos, a camada lógica, que gerencia o armazenamento em arquivos e diretórios, e a camada de usuário, que fornece uma interface para acessar e manipular arquivos.
+
+Os sistemas de arquivos podem ser formatados em diferentes formatos, como NTFS, FAT, Ext4 e outros, e cada formato tem suas próprias características e limitações. É importante entender os diferentes formatos de sistemas de arquivos e escolher o mais adequado para o uso pretendido.
+
+Os comandos de linha de comando, como "ls", "cd", "cp", "mv" e outros, podem ser usados para gerenciar arquivos e diretórios em um sistema de arquivos. É importante entender como usar esses comandos de maneira eficaz para navegar pelo sistema de arquivos, copiar e mover arquivos e visualizar as propriedades dos arquivos.
+
+Por fim, é importante estar atualizado sobre as tendências e novidades no mercado de armazenamento de dados, como novas tecnologias de armazenamento em nuvem, técnicas de armazenamento em memória e técnicas de criptografia de dados, para poder tomar decisões informadas na escolha e gerenciamento de soluções de armazenamento de dados.
