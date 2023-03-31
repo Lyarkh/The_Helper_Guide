@@ -42,3 +42,18 @@ Os sistemas de arquivos podem ser formatados em diferentes formatos, como NTFS, 
 Os comandos de linha de comando, como "ls", "cd", "cp", "mv" e outros, podem ser usados para gerenciar arquivos e diretórios em um sistema de arquivos. É importante entender como usar esses comandos de maneira eficaz para navegar pelo sistema de arquivos, copiar e mover arquivos e visualizar as propriedades dos arquivos.
 
 Por fim, é importante estar atualizado sobre as tendências e novidades no mercado de armazenamento de dados, como novas tecnologias de armazenamento em nuvem, técnicas de armazenamento em memória e técnicas de criptografia de dados, para poder tomar decisões informadas na escolha e gerenciamento de soluções de armazenamento de dados.
+
+
+## 4.4 Your Computer on the Network (weight: 2)
+
+Na LPI, é importante entender como o seu computador se conecta e interage com outras máquinas em uma rede, incluindo a Internet.
+
+Um endereço IP é um identificador exclusivo que é atribuído a cada dispositivo em uma rede, permitindo que os dispositivos se comuniquem uns com os outros. É importante entender como os endereços IP são atribuídos e gerenciados, e como eles são usados para rotear dados pela rede.
+
+Os protocolos de rede, como TCP/IP, são usados para gerenciar a comunicação entre dispositivos em uma rede. É importante entender como os protocolos de rede funcionam e como eles podem ser usados para configurar e gerenciar conexões de rede.
+
+Os firewalls são usados para proteger redes e computadores contra ameaças de segurança, como ataques de hackers e malware. É importante entender como os firewalls funcionam e como configurá-los para proteger seu computador e rede.
+
+Os serviços de rede, como DNS, DHCP e NTP, são usados para fornecer recursos importantes para a rede e os dispositivos conectados a ela. É importante entender como esses serviços funcionam e como configurá-los para fornecer recursos importantes para a rede.
+
+Finalmente, é importante estar atualizado sobre as tendências e novidades no campo das redes, como a evolução para redes sem fio de alta velocidade, o aumento da segurança de rede e as novas tecnologias de rede de área ampla, para poder tomar decisões informadas na configuração e gerenciamento de redes de computadores.
