@@ -1,4 +1,5 @@
 
+#lpi 
 ## 5.1 Basic Security and Identifying User Types (weight: 2)
 
 Na LPI, é importante entender os fundamentos da segurança da informação e como proteger seus sistemas e dados contra ameaças.

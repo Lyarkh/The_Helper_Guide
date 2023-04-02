@@ -1,4 +1,5 @@
 
+#lpi
 ## 1.1 Linux Evolution and Popular Operating Systems (weight: 
 
 O tópico 1.1 da certificação LPI (Linux Professional Institute) aborda a evolução do Linux como um sistema operacional popular e explora as diferentes distribuições do Linux, bem como seu uso em sistemas embarcados e na nuvem. Ele tem peso 2, o que significa que é considerado um tópico importante no exame.

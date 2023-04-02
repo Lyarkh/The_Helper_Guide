@@ -1,4 +1,5 @@
 
+#lpi
 ## 2.1 Command Line Basics (weight: 3)
 
 O tópico 2.1 "Command Line Basics" (Fundamentos da Linha de Comando) é uma parte importante do exame de certificação LPI 101. Nesse tópico, são abordados conceitos básicos sobre a utilização do terminal e da linha de comando no sistema operacional Linux.

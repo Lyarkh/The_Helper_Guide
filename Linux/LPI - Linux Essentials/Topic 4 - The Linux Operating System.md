@@ -1,4 +1,5 @@
 
+#lpi
 ## 4.1 Choosing an Operating System (weight: 1)
 
 Na LPI, é importante entender como escolher um sistema operacional para atender às necessidades de um ambiente específico.
