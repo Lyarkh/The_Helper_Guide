@@ -4,6 +4,15 @@
 O conteúdo referente à primeira certificação em linux, a *linux essentials*, é feita tomando como base os seguintes tópicos: 
 
 ---
+## Resumos de cada tópico
+
+ - [[Topic 1 - The Linux Community and a Career in Open Source]]
+ - [[Topic 2 - Finding Your Way on a Linux System]]
+ - [[Topic 3 - The Power of the Command Line]]
+ - [[Topic 4 - The Linux Operating System]]
+ - [[Topic 5 - Security and File Permissions]]
+ 
+---
 ### _Topic 1: The Linux Community and a Career in Open Source_
 
 #### 1.1 Linux Evolution and Popular Operating Systems (weight: 2)
