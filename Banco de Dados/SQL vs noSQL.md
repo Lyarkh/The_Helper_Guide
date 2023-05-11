@@ -12,3 +12,15 @@ As principais características dos bancos de dados relacionais incluem:
 -   Consultas complexas: os bancos de dados relacionais permitem consultas complexas usando SQL, que é uma linguagem de consulta padrão.
 
 Os bancos de dados relacionais são amplamente utilizados em aplicações empresariais e transacionais, como sistemas de gerenciamento de pedidos, sistemas de gerenciamento de inventário e sistemas de gerenciamento de recursos humanos. Eles são uma boa escolha quando há uma necessidade de garantir a integridade dos dados e para aplicações que exigem consultas complexas.
+
+## Bancos de dados não relacionais (noSQL)
+
+Os bancos de dados não relacionais são baseados em outras estruturas de dados, como documentos, gráficos ou objetos. Eles são conhecidos como bancos de dados NoSQL (Not Only SQL), já que podem ou não utilizar SQL como linguagem de consulta.
+
+Os bancos de dados não relacionais são caracterizados por:
+
+-   Esquema flexível: o esquema pode ser modificado facilmente conforme as necessidades da aplicação.
+-   Escalabilidade: os bancos de dados não relacionais são projetados para serem escaláveis, o que significa que podem ser facilmente expandidos para atender às necessidades de uma aplicação.
+-   Alta disponibilidade: os bancos de dados não relacionais são projetados para serem altamente disponíveis, garantindo que os dados estejam sempre acessíveis.
+
+Os bancos de dados não relacionais são amplamente utilizados em aplicações que lidam com grandes volumes de dados, como sistemas de análise de big data, aplicações web e de mídia social. Eles também são adequados para aplicações que exigem alta escalabilidade e disponibilidade.
