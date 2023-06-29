@@ -11,6 +11,9 @@
 	- [[Arquitetura monolítica]]
 	- [[MVC (Model-View-Controller)]]
 	- [[Tipos de Arquiteturas]]
+- Banco de Dados
+	- [[SQL vs noSQL]]
+	- [[Tipos de noSQL]]
 - **DevOps**
 	- [[CI - CD]]
 	- [[HTTP Status Codes]]
