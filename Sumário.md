@@ -9,6 +9,8 @@
 - **Aquitetura de Software**
 	- [[ Arquitetura de Microsserviços]]
 	- [[Arquitetura monolítica]]
+	- [[MVC (Model-View-Controller)]]
+	- [[Tipos de Arquiteturas]]
 - **DevOps**
 	- [[CI - CD]]
 	- [[HTTP Status Codes]]
