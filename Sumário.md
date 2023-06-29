@@ -33,6 +33,10 @@
 		- [[Topic 5 - Security and File Permissions]]
 	- [[Distros Linux]]
 	- [[GNU]]
+	- [[Comandos Básicos]]
+	- [[Distros Linux]]
+	- [[GNU]]
+	- [[Shell Scripting]]
 - **Python**
 	- [[Ambientes Virtuais em Python]]
 	- [[PEP8 - Style Guide]]
