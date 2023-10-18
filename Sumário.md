@@ -1,10 +1,8 @@
 
-## 🚧 Em construção 🚧
+## ⏳ Atualizado em 18/10/2023 
 ---
 
 ## Assuntos já abordados
-
----
 
 - **Aquitetura de Software**
 	- [[ Arquitetura de Microsserviços]]
@@ -12,6 +10,7 @@
 	- [[MVC (Model-View-Controller)]]
 	- [[Tipos de Arquiteturas]]
 - Banco de Dados
+	- [[MongoDB]]
 	- [[SQL vs noSQL]]
 	- [[Tipos de noSQL]]
 - **DevOps**
@@ -31,13 +30,12 @@
 		- [[Topic 3 - The Power of the Command Line]]
 		- [[Topic 4 - The Linux Operating System]]
 		- [[Topic 5 - Security and File Permissions]]
-	- [[Distros Linux]]
-	- [[GNU]]
+	- [[Arquivamento e Compressão de Arquivos]]
 	- [[Comandos Básicos]]
 	- [[Distros Linux]]
 	- [[GNU]]
 	- [[Shell Scripting]]
 - **Python**
-	- [[Ambientes Virtuais em Python]]
+	- [[Ambiente Virtual em Python]]
 	- [[PEP8 - Style Guide]]
 	- [[Zen of Python]]
