@@ -1,4 +1,4 @@
-#github #cli
+`tags:` #github #cli
 
 # Resumo Github
 ---

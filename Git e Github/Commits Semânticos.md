@@ -1,4 +1,5 @@
-#github #pattern #semantico
+`tags:` #github #pattern #semantico
+
 Commits semânticos são um convenção para manter a padrões de commits.
 Utilizar padões de commits é uma ótima maneira de deixar um histórico de commits explícito, facilitando na hora de criação de ferramentas automatizadas. 
 

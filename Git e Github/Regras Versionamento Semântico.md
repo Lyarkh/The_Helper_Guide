@@ -1,4 +1,4 @@
-#github #semantico 
+`tags:` #github #semantico 
 
 ## Regra 01 - API pública
 
