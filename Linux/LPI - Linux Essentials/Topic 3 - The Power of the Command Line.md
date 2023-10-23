@@ -1,5 +1,5 @@
+`tags:` #lpi
 
-#lpi
 ## 3.1 Archiving Files on the Command Line (weight: 2)
 
 O arquivamento de arquivos na linha de comando envolve a criação de um único arquivo que contém um ou mais arquivos ou diretórios. Isso é útil quando você precisa transferir um grande número de arquivos ou diretórios ou quando deseja compactá-los para economizar espaço em disco.

@@ -1,4 +1,4 @@
-#linux #shellScript
+`tags:` #linux #automacao
 
 # Resumo
 ---
