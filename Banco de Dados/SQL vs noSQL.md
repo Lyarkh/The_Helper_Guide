@@ -1,3 +1,5 @@
+`tags:` #bancodedados #sql #nosql
+
 Bancos de dados são sistemas usados para armazenar, gerenciar e acessar informações de forma organizada. Existem dois tipos principais de bancos de dados: relacionais e não relacionais. Enquanto os bancos de dados relacionais são baseados em tabelas, os bancos de dados não relacionais utilizam outras estruturas de dados como documentos, gráficos ou objetos.
 
 

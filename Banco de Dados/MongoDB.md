@@ -1,3 +1,5 @@
+`tags:` #nosql #bancodedados 
+
 O MongoDB é um banco de dados NoSQL amplamente utilizado que se destaca por sua flexibilidade e escalabilidade. Aqui está um resumo das principais características e conceitos relacionados ao MongoDB:
 
 1. NoSQL: MongoDB é um banco de dados NoSQL, o que significa "Not Only SQL". Ele difere dos bancos de dados SQL tradicionais em sua abordagem de armazenamento e recuperação de dados, permitindo uma estrutura de dados mais flexível e esquemas dinâmicos.

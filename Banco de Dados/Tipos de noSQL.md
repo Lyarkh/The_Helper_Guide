@@ -1,3 +1,4 @@
+`tags:` #nosql 
 
 NoSQL (Not Only SQL) é uma abordagem de banco de dados não-relacional que difere dos tradicionais bancos de dados relacionais em vários aspectos, incluindo a forma como armazenam e recuperam dados. Existem vários tipos de bancos de dados NoSQL, cada um projetado para atender a um conjunto específico de necessidades. Neste texto, vamos discutir os principais tipos de bancos de dados NoSQL e citar algumas ferramentas de exemplo para cada um deles.
 
