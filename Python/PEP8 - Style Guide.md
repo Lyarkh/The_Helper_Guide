@@ -1,4 +1,4 @@
-#python #pattern #design 
+`tags:` #python #pattern #design 
 
 
 Documentação referente à [PEP8](https://peps.python.org/pep-0008/).

@@ -1,4 +1,5 @@
-#python #ambiente_virtual
+`tags:` #python #ambiente_virtual
+
 Criação de ambientes  virtuais em python são essenciais para o desenvolvimento de aplicações e programas.  Que pode fazer com que as bibliotecas instaladas em nossa máquina não entre em  conflito de versões com as bibliotecas dos projetos.
 
 Existe diversas formas de se criar ambientes virtuais em python. Uma das mais famosas e mais utilizadas é o `venv`.
