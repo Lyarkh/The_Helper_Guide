@@ -1,4 +1,4 @@
-`tags:`#lpi
+`tags:` #lpi #linux 
 
 ## 1.1 Linux Evolution and Popular Operating Systems (weight: 
 

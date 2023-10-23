@@ -1,4 +1,4 @@
-`tags:` #lpi 
+`tags:` #lpi #linux 
 
 ## 4.1 Choosing an Operating System (weight: 1)
 

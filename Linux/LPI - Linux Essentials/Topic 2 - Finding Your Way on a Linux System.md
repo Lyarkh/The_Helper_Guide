@@ -1,4 +1,4 @@
-`tags:` #lpi
+`tags:` #lpi #linux 
 
 ## 2.1 Command Line Basics (weight: 3)
 

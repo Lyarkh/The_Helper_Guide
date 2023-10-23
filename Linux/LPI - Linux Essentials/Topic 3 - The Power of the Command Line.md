@@ -1,4 +1,4 @@
-`tags:` #lpi
+`tags:` #lpi #linux 
 
 ## 3.1 Archiving Files on the Command Line (weight: 2)
 
