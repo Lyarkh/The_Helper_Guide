@@ -1,4 +1,4 @@
-#arquitetura #microsserviços
+`tags:` #arquitetura #microsserviços
 ## Resumo
 ---
 Microsserviços é o nome dado a uma arquitetura que estrutura a aplicação criando uma coleção de serviços.   

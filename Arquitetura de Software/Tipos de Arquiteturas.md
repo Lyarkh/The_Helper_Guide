@@ -1,4 +1,4 @@
-#arquitetura 
+`tags:` #arquitetura 
 
 Existem vários tipos de arquiteturas de software utilizados na indústria de desenvolvimento de software. Aqui estão alguns dos tipos mais comuns:
 
