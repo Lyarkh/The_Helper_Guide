@@ -1,4 +1,4 @@
-#devops #automação
+`tags:` #devops #automacao
 
 O makefile sempre são compostos por regras (_rules_). Cada regra contém 3 elementos.
  - O **alvo (target)**

@@ -1,6 +1,5 @@
-#devops #redes
+`tags:` #devops #redes
 
----
 ### Information \[100 -199\]
 
 - 100 - Continue

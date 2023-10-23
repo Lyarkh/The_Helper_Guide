@@ -1,6 +1,5 @@
-#devops 
+`tags:` #devops #ci_cd 
 
----
 ## Resumo:
 
 CI/CD é a abreviação de _Continuous Integration/Continuous Delivery,_ traduzindo para o português: integração e entrega contínuas. Trata-se de uma prática de desenvolvimento de software que visa tornar a integração de código mais eficiente por meio de builds e testes automatizados. Com a abordagem CI/CD é possível entregar [aplicações](https://www.redhat.com/pt-br/topics/cloud-native-apps?percmp=7013a0000034e7YAAQ&cicd=32h281b) com mais frequência aos clientes. Para tanto, regras de [automação](https://www.redhat.com/pt-br/topics/automation?cicd=32h281b) são aplicadas nas etapas de [desenvolvimento de apps](https://www.redhat.com/pt-br/topics/devops/[[url-nid:307771;title:'article%20%7C%20why%20choose%20red%20hat%20for%20cloud-native%20development?%27])
