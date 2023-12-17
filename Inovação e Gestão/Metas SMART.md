@@ -45,3 +45,7 @@
 Meta 1 não é uma meta SMART pois não tem um tempo definido para a meta, não possui clareza de qual aplicativo em específico seria e não quantificado de qual seria a mudança com essa meta para ter um monitoramento claro do projeto
 
 Já a meta 2 pode ser considerada meta SMART pois possui todos os pontos. Ela é mensurável pois está especificando a quantidade de mudanças, estar estipulando um tempo para essa meta e sendo mais claro de qual aplicativo seria essa meta.
+
+
+
+para aprofundar sobre o tema: [link](https://www.alura.com.br/empresas/artigos/metas-smart?_gl=1*nqugbo*_ga*MTg0Njc2NjcwMS4xNjY4OTY1NTk2*_ga_1EPWSW3PCS*MTcwMjgyMTk1NS4xNzAuMS4xNzAyODIzMTQyLjAuMC4w*_fplc*QlNSaEFCS21EMVhiODNxNUt5MiUyRklBbUF4QnlzekR2NTVocUdjb1BFUGVkV0cxS3U4bGtLZEdwaVlkZkRBanEzeUxTdmxVRGpvbzZPbzVjRXRhbDBQRzFQZ0pZQiUyQmVZaUl6bldXaHMydkg3RERaYjF0JTJGWFRsTFJJMTZTWSUyRmclM0QlM0Q.)
