@@ -1,0 +1,11 @@
+- É o algoritmo mais lento de ordenação
+- Como funciona?
+	- Comparação entre dois números, se o da esquerda for maior, os valores devem ser trocados
+	- Desloca-se uma posição á direita
+- O total de comparações a serem feitas será seguindo seguinte formula:
+	- (n-1)! -> (n-1, n-2, n-3,...) onde _n_ é quantidade de itens no vetor
+	- nesse caso para 10 itens
+		- 9+8+7+6+5+4+3+2+1 = 45
+- Big 0 - quadrática (n^2)
+
+- O total de trocas estimado será em torno de (__n^2/2__) e no pior caso com os dados em modo inverso será necessário uma troca a cada comparação
