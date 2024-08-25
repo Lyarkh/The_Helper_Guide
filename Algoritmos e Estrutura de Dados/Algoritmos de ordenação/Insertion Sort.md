@@ -1,0 +1,5 @@
+- Cerca de duas vezes mais rapido que o bubble sort e um pouco mais rapido que o selection sort
+- Funcionamento
+	- Há um marcador em algum lugar no vetor
+	- Os elementos da esquerda do vetor estão parcialmente ordenados (ordenados entre eles mais não estão em suas posições finais)
+	- Os elementos da direta do marcador não estão ordenados
