@@ -1,0 +1,3 @@
+- **Funcionamento**: Divide a lista em duas metades, ordena cada metade e as combina. Utiliza a técnica "dividir e conquistar".
+- **Complexidade**: `O(n log n)` no pior caso.
+- **Resumo**: Estável e eficiente, mas exige espaço extra.
