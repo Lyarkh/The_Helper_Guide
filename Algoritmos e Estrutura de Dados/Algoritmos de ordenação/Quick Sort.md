@@ -1,0 +1,3 @@
+- **Funcionamento**: Escolhe um elemento como pivô, particiona a lista em dois grupos (menor que o pivô e maior que o pivô) e ordena recursivamente.
+- **Complexidade**: `O(n log n)` no caso médio, mas `O(n^2)` no pior caso.
+- **Resumo**: Um dos mais rápidos na prática, mas pode ser instável.
