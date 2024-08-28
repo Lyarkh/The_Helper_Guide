@@ -1,0 +1,3 @@
+- **Funcionamento**: Funciona apenas em listas ordenadas. Divide a lista ao meio repetidamente até encontrar o elemento ou determinar que ele não existe.
+- **Complexidade**: `O(log n)`.
+- **Resumo**: Muito eficiente, mas requer uma lista previamente ordenada.
