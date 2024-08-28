@@ -1,0 +1,3 @@
+- **Funcionamento**: Percorre cada elemento da lista até encontrar o item desejado ou atingir o fim.
+- **Complexidade**: `O(n)`.
+- **Resumo**: Simples, mas ineficiente para listas grandes.
