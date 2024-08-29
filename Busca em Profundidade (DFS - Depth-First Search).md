@@ -1,0 +1,3 @@
+- **Funcionamento**: Explora o máximo possível ao longo de cada ramo antes de retroceder. Usa uma pilha (ou recursão).
+- **Complexidade**: `O(V + E)`.
+- **Resumo**: Bom para detectar ciclos e explorar todos os nós.
