@@ -1,0 +1,3 @@
+- **Funcionamento**: Explora todos os vizinhos de um nó antes de passar para o próximo nível. Usa uma fila para gerenciar os nós a serem explorados.
+- **Complexidade**: `O(V + E)` (onde V é o número de vértices e E é o número de arestas).
+- **Resumo**: Útil para encontrar o caminho mais curto em grafos não ponderados.
