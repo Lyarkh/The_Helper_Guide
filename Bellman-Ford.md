@@ -1,0 +1,3 @@
+- **Funcionamento**: Calcula o caminho mais curto de um nó para todos os outros, mesmo se houver arestas com pesos negativos.
+- **Complexidade**: `O(V * E)`.
+- **Resumo**: Menos eficiente que Dijkstra, mas pode lidar com pesos negativos.
