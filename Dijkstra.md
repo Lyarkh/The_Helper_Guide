@@ -1,0 +1,3 @@
+- **Funcionamento**: Algoritmo para encontrar o caminho mais curto de um nó para todos os outros em um grafo com arestas de pesos positivos.
+- **Complexidade**: `O(V^2)` com listas de adjacência, `O((V + E) log V)` com heaps binárias.
+- **Resumo**: Eficiente para grafos ponderados.
