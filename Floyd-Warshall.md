@@ -1,0 +1,3 @@
+- **Funcionamento**: Encontra os caminhos mais curtos entre todos os pares de vértices.
+- **Complexidade**: `O(V^3)`.
+- **Resumo**: Usado para grafos densos onde o custo computacional não é um problema.
