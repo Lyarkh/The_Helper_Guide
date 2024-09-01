@@ -1,0 +1,3 @@
+- **Funcionamento**: Criam uma árvore que conecta todos os vértices com o menor custo total possível.
+- **Complexidade**: `O(E log E)` para Kruskal, `O(E + V log V)` para Prim.
+- **Resumo**: Úteis para otimizar conexões, como redes de comunicação.
