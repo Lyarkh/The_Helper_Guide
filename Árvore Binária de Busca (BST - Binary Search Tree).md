@@ -1,0 +1,3 @@
+- **Funcionamento**: Cada nó tem no máximo dois filhos, e o nó esquerdo é sempre menor que o nó pai, enquanto o direito é maior.
+- **Complexidade**: `O(log n)` para operações de busca e inserção no caso médio, `O(n)` no pior caso.
+- **Resumo**: Bom para dados dinâmicos que precisam ser ordenados.
