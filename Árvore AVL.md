@@ -1,0 +1,3 @@
+- **Funcionamento**: Uma árvore binária de busca auto-balanceada onde a diferença de altura entre subárvores é no máximo 1.
+- **Complexidade**: `O(log n)` para todas as operações.
+- **Resumo**: Evita os piores casos de árvores binárias não balanceadas.
