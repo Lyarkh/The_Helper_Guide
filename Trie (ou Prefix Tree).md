@@ -1,0 +1,3 @@
+- **Funcionamento**: Uma árvore usada para armazenar um conjunto de strings, facilitando a busca por prefixos.
+- **Complexidade**: `O(m)` para operações de busca e inserção, onde `m` é o comprimento da string.
+- **Resumo**: Excelente para aplicações de autocompletar e busca de prefixos.
