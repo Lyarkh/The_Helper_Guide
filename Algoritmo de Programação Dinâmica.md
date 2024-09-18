@@ -1,0 +1,3 @@
+- **Funcionamento**: Resolve problemas dividindo-os em subproblemas menores e reutilizando os resultados.
+- **Complexidade**: Depende do problema, mas geralmente otimiza soluções recursivas.
+- **Resumo**: Muito útil para problemas de otimização, como o problema da mochila e subsequência comum máxima.
